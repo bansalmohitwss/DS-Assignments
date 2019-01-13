@@ -7,3 +7,4 @@ Data Structure Assignments including data structure like :
 4. Tree
 5. Graph
 6. Sorting Algos
+7. MST Algos
